@@ -1,0 +1,11 @@
+git init                              -- INICIA UM REPOSITORIO VAZIO
+
+git remote add origin  LINKDOGITHUB   -- LIGA O CODIGO COM O REPOSITORIO
+
+git status                            -- VERIFICA OS ARQUIVOS COM MODIFICAÇÕES
+
+git add                               -- ADICIONA OS ARQUIVOS PARA O GIT
+
+git commit -m "MENSAGEM"              -- CONFIRMA OS ARQUIVOS PARA O GIT
+
+git push origin master                -- ENVIA PARA O GIT
